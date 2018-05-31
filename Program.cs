@@ -2,6 +2,7 @@
 using System.IO;
 using System.Text.RegularExpressions;
 using System.Linq;
+using System.Collections;
 
 namespace Andrzej
 {
@@ -10,6 +11,9 @@ namespace Andrzej
         static readonly string _logFilePath = @"C:\Users\Edzia\Documents\Andrzej\Power.txt";
         static string _generalCaptureRegex = @"^.*([0-9]{2}:[0-9]{2}:[0-9]{2}).*GameState\.DebugPrintPower\(\) *\- *([A-Za-z0-9\[\]_= -]*)";
         static string _tagCaptureRegex = @"tag=([A-Za-z0-9_-]*) *value=([A-Za-z0-9]*)";
+
+        
+
         static void Main(string[] args)
         {
             var logFile = File.ReadAllLines(_logFilePath);
