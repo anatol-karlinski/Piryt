@@ -1,0 +1,11 @@
+C:\Users\Edzia\Documents\Andrzej\bin\Debug\netcoreapp2.1\Andrzej.deps.json
+C:\Users\Edzia\Documents\Andrzej\bin\Debug\netcoreapp2.1\Andrzej.runtimeconfig.json
+C:\Users\Edzia\Documents\Andrzej\bin\Debug\netcoreapp2.1\Andrzej.runtimeconfig.dev.json
+C:\Users\Edzia\Documents\Andrzej\bin\Debug\netcoreapp2.1\Andrzej.dll
+C:\Users\Edzia\Documents\Andrzej\bin\Debug\netcoreapp2.1\Andrzej.pdb
+C:\Users\Edzia\Documents\Andrzej\obj\Debug\netcoreapp2.1\Andrzej.csprojAssemblyReference.cache
+C:\Users\Edzia\Documents\Andrzej\obj\Debug\netcoreapp2.1\Andrzej.csproj.CoreCompileInputs.cache
+C:\Users\Edzia\Documents\Andrzej\obj\Debug\netcoreapp2.1\Andrzej.AssemblyInfoInputs.cache
+C:\Users\Edzia\Documents\Andrzej\obj\Debug\netcoreapp2.1\Andrzej.AssemblyInfo.cs
+C:\Users\Edzia\Documents\Andrzej\obj\Debug\netcoreapp2.1\Andrzej.dll
+C:\Users\Edzia\Documents\Andrzej\obj\Debug\netcoreapp2.1\Andrzej.pdb
